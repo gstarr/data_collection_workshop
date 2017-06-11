@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Resources for workshop
 
-You can use the [editor on GitHub](https://github.com/gstarr/data_collection_workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Facebook   
+* [Facebook ads API](https://developers.facebook.com/docs/marketing-apis)
+* [Data Use Policy](https://www.facebook.com/full_data_use_policy)
+* [Google Data Collection](https://privacy.google.com/your-data.html)
+* [Facebook ad targeting](https://www.facebook.com/business/a/online-sales/ad-targeting-details)
+* [App store guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Examples of work:  
+* [Faceyrself](https://chrome.google.com/webstore/detail/faceyrself/bajidknjdgcknoeedomhpkppekbgdckd)
+* [The Data Drive](http://www.thedatadrive.com/)
+* [White Collar Crime Predictor](http://whitecollar.thenewinquiry.com/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gstarr/data_collection_workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
